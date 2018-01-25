@@ -1,0 +1,9 @@
+{
+  "name": "podcast-app",
+  "version": "1.0.0",
+  "description": "podcast app witn node and mongo",
+  "main": "index.js",
+  "repository": "https://github.com/johinsDev/podcast-app",
+  "author": "johinsdev",
+  "license": "MIT"
+}
